@@ -24,9 +24,9 @@ function Section1() {
 
     <Col lg={5}>
     <div className='hero_text text-center' >
-       <h1 className='text-white'>New Burger</h1> 
-       <h2 className='text-white'>With Onion</h2> 
-       <p className='text-white pt-2 pb-4'> Feugiat primis ligula risus auctor laoreet augue egestas mauris viverra tortor in iaculis pretium at magna mauris ipsum primis rhoncus feugiat </p>
+       <h1 className='text-white'>Introducing the Flavor Burst Burger</h1> 
+       <h2 className='text-white'>With Onion Savory!</h2> 
+       <p className='text-white pt-2 pb-4'> Delicious, and crafted with premium ingredients, our new burger will tantalize your taste buds. Come and experience the ultimate burger indulgence! </p>
         <Link to="/" className='btn order_now'>Order Now</Link>
 
     </div>
