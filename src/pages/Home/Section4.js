@@ -41,7 +41,7 @@ We love seeing families and friends gather to enjoy our food. It's all about cre
    </section>
 
 
-    {/* BG parallex scroll */}
+    {/* BG parallax scroll */}
     <section className='bg_parallax_scroll'></section>
 
 
