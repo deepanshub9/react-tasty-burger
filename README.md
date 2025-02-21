@@ -1,4 +1,4 @@
-# Project Name: Testy Burger Website
+# Project Name: Tasty Burger Website
 
 ## Table of Contents
 
@@ -13,8 +13,8 @@ Testy Burger Website is a responsive web application built using modern web tech
 ![Burger](https://i.postimg.cc/dtWT4bLC/bruger-1.png)
 ![Burger](https://i.postimg.cc/SQf9z24D/3.png)
 ![Burger](https://i.postimg.cc/656vVW5w/2.png)
-![Burger](https://i.postimg.cc/90bq3Sbv/4.png)
-![Burger](https://i.postimg.cc/PJT8RhWW/5.png)
+![Burger](https://postimg.cc/N2y0mdW4)
+![Burger](https://postimg.cc/7Gt65FQh)
 
 ## Technology Stack
 
