@@ -5,6 +5,9 @@ import '../../styles/HomeStyle.css';
 import Section2 from './Section2';
 import Section3 from './Section3';
 import Section4 from './Section4';
+import Section5 from './Section5';
+import Section6 from './Section6';
+import Section7 from './Section7';
 
 
 function Home() {
@@ -23,6 +26,15 @@ function Home() {
       {/* Home Section 4 promotion */}
       <Section4 />
       
+      {/* Home Section 5 */}
+      <Section5/>
+
+
+      {/* Home Section 6 */}
+      <Section6 />
+
+      {/* Home Section 7 */}
+      <Section7 />
     </Layout>
     </>
   )
