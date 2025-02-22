@@ -10,11 +10,11 @@
 
 Testy Burger Website is a responsive web application built using modern web technologies. The website provides information about the various burgers offered, allows users to place orders, and includes sections about promotions, quality foods, and delivery options. The goal is to create an engaging and user-friendly platform for burger enthusiasts.
 
-![Burger](https://i.postimg.cc/dtWT4bLC/bruger-1.png)
-![Burger](https://i.postimg.cc/SQf9z24D/3.png)
-![Burger](https://i.postimg.cc/656vVW5w/2.png)
-![Burger](https://postimg.cc/N2y0mdW4)
-![Burger](https://postimg.cc/7Gt65FQh)
+[![bruger-1.png](https://i.postimg.cc/dtWT4bLC/bruger-1.png)](https://postimg.cc/SJMsKtLQ)
+[![3.png](https://i.postimg.cc/SQf9z24D/3.png)](https://postimg.cc/Lhh5csn1)
+[![2.png](https://i.postimg.cc/656vVW5w/2.png)](https://postimg.cc/HjKndCyP)
+[![4.png](https://i.postimg.cc/90bq3Sbv/4.png)](https://postimg.cc/N2y0mdW4)
+[![5.png](https://i.postimg.cc/PJT8RhWW/5.png)](https://postimg.cc/7Gt65FQh)
 
 ## Technology Stack
 
